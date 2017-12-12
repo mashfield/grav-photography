@@ -1,6 +1,6 @@
 ---
 title: 'What I Does'
-heading: 'What I Do'
+heading: 'What I Does'
 background_image: one.jpg
 content_position: right
 ---
