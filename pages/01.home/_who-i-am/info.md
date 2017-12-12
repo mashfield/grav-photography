@@ -1,6 +1,6 @@
 ---
 title: 'Who I Is'
-heading: 'Who I Am'
+heading: 'Who I Is'
 background_image: two.jpg
 content_position: left
 ---
